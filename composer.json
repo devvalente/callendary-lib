@@ -1,0 +1,21 @@
+{
+    "name": "devvalente/callendary-lib",
+    "description": "Advanced form generation form symfony",
+    "type": "library",
+    "require": {
+        "php": "^7.2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Waller\\" : "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lvalente",
+            "email": "valenleo313@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
